@@ -1,0 +1,6 @@
+*.db
+*.pyc
+*.txt
+*.log
+*.env
+*.venv
